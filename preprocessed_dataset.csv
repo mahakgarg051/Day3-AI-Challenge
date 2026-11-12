@@ -1,0 +1,6 @@
+Original_Text,Tokenized_Text,Stopwords_Removed,Cleaned_Text,artificial,computers,data,exciting,field,helps,human,intelligence,interesting,language,learning,love,machine,natural,nlp,processing,python,science,understand
+I am learning Natural Language Processing!,I am learning Natural Language Processing !,learning Natural Language Processing !,learning Natural Language Processing,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0
+Machine Learning is very interesting.,Machine Learning is very interesting .,Machine Learning interesting .,Machine Learning interesting,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+I love Python and Artificial Intelligence.,I love Python and Artificial Intelligence .,love Python Artificial Intelligence .,love Python Artificial Intelligence,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0
+NLP helps computers understand human language.,NLP helps computers understand human language .,NLP helps computers understand human language .,NLP helps computers understand human language,0,1,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,1
+Data Science is an exciting field.,Data Science is an exciting field .,Data Science exciting field .,Data Science exciting field,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
